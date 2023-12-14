@@ -9,7 +9,7 @@ header {
 
   width: 100%;
   background: linear-gradient(to right, #ff6f47, #ffdd34);
-  height: 80vh;
+  height: max-content;
   color: white;
   padding: 2rem;
 }  
